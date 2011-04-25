@@ -1,0 +1,4 @@
+Very simple bash script to search Google.  Uses curl and html2text to parse the results.  I just wanted something simple but may expand in the future.
+
+USAGE
+$ google this is what I'm searching for
